@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "npm:express": "npm:express@^4.17.1",
+    "npm:whatsapp-web.js": "npm:whatsapp-web.js@^1.23.0",
+    "npm:qrcode": "npm:qrcode@^1.5.0",
+    "npm:cors": "npm:cors@^2.8.5",
+    "npm:uuid": "npm:uuid@^8.3.2",
+    "npm:puppeteer": "npm:puppeteer@^21.0.0"
+  }
+}
